@@ -8,38 +8,37 @@ Ferramenta em Python para varredura automatizada de links em sites que contenham
 
 ## Funcionalidades
 
-- Rastreamento recursivo de links internos a partir de uma URL inicial
-- Coleta de URLs contendo `id=` ou `php?id=`
-- Limite de profundidade configurável para evitar varredura excessiva
-- Salvamento automático dos resultados em arquivo `.txt`
-- Suporte à interrupção via Ctrl+C com salvamento seguro dos dados
+- Rastreamento recursivo de links internos a partir de uma URL inicial  
+- Coleta de URLs contendo `id=` ou `php?id=`  
+- Limite de profundidade configurável para evitar varredura excessiva  
+- Salvamento automático dos resultados em arquivo `.txt`  
+- Suporte à interrupção via Ctrl+C com salvamento seguro dos dados  
 
 ---
 
 ## Captura de Tela (Banner)
 
-
----
-
+```plaintext
   _____ _____   _____                 
  |_   _|  __ \ / ____|                
    | | | |  | | (___   ___ __ _ _ __  
    | | | |  | |\___ \ / __/ _` | '_ \ 
   _| |_| |__| |____) | (_| (_| | | | |
- |_____|_____/|_____/ \___\__,_|_| |_||
+ |_____|_____/|_____/ \___\__,_|_| |_|
 
 Ferramenta de Varredura ID/PHP
     Desenvolvida por K4tz0x - 2025
 
+
 ---
 
-## Requisitos
+Requisitos
 
-- Python 3.x
+Python 3.x
 
-### Instalação de dependências:
 
-```bash
+Instalação de dependências:
+
 pip install -r requirements.txt
 
 Ou instale manualmente:
