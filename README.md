@@ -1,25 +1,31 @@
-# Ferramenta de Varredura ID/PHP
+Ferramenta de Varredura ID/PHP
 
-**Desenvolvida por K4tz0x - 2025**
+Desenvolvida por K4tz0x - 2025
 
-Ferramenta em Python para varredura automatizada de links em sites que contenham parâmetros como `id=` ou `php?id=`, comuns em aplicações suscetíveis a falhas de segurança (ex: SQL Injection). Ideal para testes de segurança e auditoria web.
+Ferramenta em Python para varredura automatizada de links em sites que contenham parâmetros como id= ou php?id=, comuns em aplicações suscetíveis a falhas de segurança (ex: SQL Injection). Ideal para testes de segurança e auditoria web.
 
----
-
-## Funcionalidades
-
-- Rastreamento recursivo de links internos a partir de uma URL inicial  
-- Coleta de URLs contendo `id=` ou `php?id=`  
-- Limite de profundidade configurável para evitar varredura excessiva  
-- Salvamento automático dos resultados em arquivo `.txt`  
-- Suporte à interrupção via Ctrl+C com salvamento seguro dos dados  
 
 ---
 
-## Captura de Tela (Banner)
+Funcionalidades
 
-```plaintext
-  _____ _____   _____                 
+Rastreamento recursivo de links internos a partir de uma URL inicial
+
+Coleta de URLs contendo id= ou php?id=
+
+Limite de profundidade configurável para evitar varredura excessiva
+
+Salvamento automático dos resultados em arquivo .txt
+
+Suporte à interrupção via Ctrl+C com salvamento seguro dos dados
+
+
+
+---
+
+Captura de Tela (Banner)
+
+_____ _____   _____                 
  |_   _|  __ \ / ____|                
    | | | |  | | (___   ___ __ _ _ __  
    | | | |  | |\___ \ / __/ _` | '_ \ 
@@ -36,10 +42,9 @@ Requisitos
 
 Python 3.x
 
-
 Instalação de dependências
 
-Use o arquivo requirements.txt:
+Use o arquivo requirements.txt com o comando:
 
 pip install -r requirements.txt
 
