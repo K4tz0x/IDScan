@@ -37,7 +37,9 @@ Requisitos
 Python 3.x
 
 
-Instalação de dependências:
+Instalação de dependências
+
+Use o arquivo requirements.txt:
 
 pip install -r requirements.txt
 
@@ -69,7 +71,7 @@ python3 idscan.py
 
 Digite a URL inicial (ex: https://exemplo.com):
 
-4. Aguarde a varredura. Use Ctrl+C a qualquer momento para encerrar e salvar os resultados.
+4. Aguarde a varredura. Use Ctrl+C para encerrar e salvar os resultados a qualquer momento.
 
 
 
