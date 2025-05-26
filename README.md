@@ -21,9 +21,12 @@ Ferramenta em Python para varredura automatizada de links em sites que contenham
 
 ---
 
-|_   |  __ \ / |
-| | | |  | | (   ___ __ _ _ __
-| | | |  | |_ \ / / ` | ' \ | || || |) | (| (| | | | | ||/|___/ __,|| ||
+  _____ _____   _____                 
+ |_   _|  __ \ / ____|                
+   | | | |  | | (___   ___ __ _ _ __  
+   | | | |  | |\___ \ / __/ _` | '_ \ 
+  _| |_| |__| |____) | (_| (_| | | | |
+ |_____|_____/|_____/ \___\__,_|_| |_|
 
 Ferramenta de Varredura ID/PHP
     Desenvolvida por K4tz0x - 2025
@@ -52,14 +55,14 @@ Como Usar
 
 
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/K4tz0x/IDScan.git
+cd IDScan
 
 2. Execute o script:
 
 
 
-python3 varredura_id.py
+python3 idscan.py
 
 3. Insira a URL inicial quando solicitado:
 
@@ -93,6 +96,4 @@ Este projeto é livre para uso educacional e de pesquisa. Não utilize para ativ
 Autor
 
 K4tz0x
-Contato: github.com/seu-usuario (substitua pelo seu link)
-
----
+https://github.com/K4tz0x
