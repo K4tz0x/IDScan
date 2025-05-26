@@ -26,7 +26,7 @@ Ferramenta em Python para varredura automatizada de links em sites que contenham
    | | | |  | | (___   ___ __ _ _ __  
    | | | |  | |\___ \ / __/ _` | '_ \ 
   _| |_| |__| |____) | (_| (_| | | | |
- |_____|_____/|_____/ \___\__,_|_| |_|
+ |_____|_____/|_____/ \___\__,_|_| |_||
 
 Ferramenta de Varredura ID/PHP
     Desenvolvida por K4tz0x - 2025
